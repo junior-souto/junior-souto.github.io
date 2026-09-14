@@ -1,21 +1,13 @@
-JUNIOR SOUTO — SITE 5.0 (UM ARQUIVO)
+JUNIOR SOUTO — SITE 5.1 / FONTES VERIFICADAS
 
-Esta versão foi refeita do zero para evitar erro de imagem ou caminho no GitHub Pages.
-
-IMPORTANTE:
-- A foto já está EMBUTIDA dentro do index.html.
-- Você só precisa enviar UM arquivo: index.html.
-- Não precisa enviar nenhuma pasta de imagem.
-- Não precisa enviar PNG separado.
+Atualização principal:
+- adicionada seção "Fontes públicas"
+- links diretos para Spotify, Apple Music, Qobuz, Shazam, Amazon Music e SBACEM
+- distinção visual entre créditos confirmados e itens ainda em revisão
+- foto continua embutida no index.html
 
 PUBLICAÇÃO:
-1. Crie (ou recrie) o repositório: junior-souto.github.io
-2. Envie somente o arquivo index.html
-3. Commit diretamente na branch main
-4. Em Settings > Pages, confirme "Deploy from a branch", branch main, pasta /(root)
-5. Acesse: https://junior-souto.github.io/
+Envie SOMENTE o novo index.html ao repositório junior-souto.github.io.
+Substitua o index.html atual e confirme o commit na branch principal.
 
-CONTATO OFICIAL:
-misterjuniorjj@gmail.com
-Instagram:
-https://www.instagram.com/juniorsoutoofc/
+Não apresente Rebobina Funk Volume 1 como crédito confirmado sem documentação pública independente.
