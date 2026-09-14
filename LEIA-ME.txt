@@ -1,0 +1,21 @@
+JUNIOR SOUTO — SITE 5.0 (UM ARQUIVO)
+
+Esta versão foi refeita do zero para evitar erro de imagem ou caminho no GitHub Pages.
+
+IMPORTANTE:
+- A foto já está EMBUTIDA dentro do index.html.
+- Você só precisa enviar UM arquivo: index.html.
+- Não precisa enviar nenhuma pasta de imagem.
+- Não precisa enviar PNG separado.
+
+PUBLICAÇÃO:
+1. Crie (ou recrie) o repositório: junior-souto.github.io
+2. Envie somente o arquivo index.html
+3. Commit diretamente na branch main
+4. Em Settings > Pages, confirme "Deploy from a branch", branch main, pasta /(root)
+5. Acesse: https://junior-souto.github.io/
+
+CONTATO OFICIAL:
+misterjuniorjj@gmail.com
+Instagram:
+https://www.instagram.com/juniorsoutoofc/
