@@ -1,0 +1,11 @@
+SITE 5.2 — JUNIOR SOUTO + PRESS KIT OFICIAL
+
+Para atualizar o GitHub Pages, envie estes 2 arquivos para a raiz do repositório junior-souto.github.io:
+
+1. index.html
+2. press-kit-junior-souto.pdf
+
+O novo index.html já contém botões “Baixar Press Kit” no topo, no menu e na área de imprensa.
+A foto continua embutida dentro do index.html.
+
+Depois faça o commit na branch main e aguarde o GitHub Pages publicar.
