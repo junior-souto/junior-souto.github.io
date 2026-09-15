@@ -1,11 +1,24 @@
-SITE 5.2 — JUNIOR SOUTO + PRESS KIT OFICIAL
+SITE 6.0 — JUNIOR SOUTO
 
-Para atualizar o GitHub Pages, envie estes 2 arquivos para a raiz do repositório junior-souto.github.io:
+Arquivos:
+- index.html — site atualizado
+- press-kit-junior-souto.pdf — press kit anterior
+- dossie-pauta-imprensa-etapa-5-v1.1.pdf — dossiê revisado para jornalistas
 
-1. index.html
-2. press-kit-junior-souto.pdf
+ATUALIZAÇÃO NO GITHUB PAGES
+1. Abra o repositório junior-souto.github.io no GitHub.
+2. Substitua o index.html pelo arquivo deste pacote.
+3. Envie também dossie-pauta-imprensa-etapa-5-v1.1.pdf.
+4. Mantenha press-kit-junior-souto.pdf no mesmo nível do index.html.
+5. Faça o commit das alterações.
 
-O novo index.html já contém botões “Baixar Press Kit” no topo, no menu e na área de imprensa.
-A foto continua embutida dentro do index.html.
-
-Depois faça o commit na branch main e aguarde o GitHub Pages publicar.
+Principais mudanças do SITE 6.0:
+- área “Para jornalistas” ampliada;
+- Dossiê Etapa 5 v1.1 integrado;
+- Moleka Safadinha retirada da cronologia confirmada e mantida apenas em revisão;
+- Rebobina Funk corrigido (sem chamar o primeiro álbum de Volume 1);
+- Tchotchomeri mantido como Piano, com fonte pública;
+- créditos de Producer em FUNK & UNÇÃO 2025 mantidos com Qobuz;
+- ABRAMUS/ECAD classificado como documento profissional, sem inferir função;
+- PV4/Reurbana tratados como arquivo histórico sujeito a rechecagem;
+- texto público não afirma propriedade/fundação do Estúdio PV4.
