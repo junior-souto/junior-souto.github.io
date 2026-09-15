@@ -22,3 +22,6 @@ Principais mudanças do SITE 6.0:
 - ABRAMUS/ECAD classificado como documento profissional, sem inferir função;
 - PV4/Reurbana tratados como arquivo histórico sujeito a rechecagem;
 - texto público não afirma propriedade/fundação do Estúdio PV4.
+
+
+ATUALIZAÇÃO 6.0.1: referência SBACEM reforçada no próprio site; link original mantido com aviso de disponibilidade externa.
