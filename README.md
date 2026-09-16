@@ -2,10 +2,13 @@
 
 **Músico · Produtor · Instrumentista**
 
-Repositório oficial do site profissional de Junior Souto, reunindo trajetória, créditos públicos verificáveis, documentação profissional e materiais para imprensa.
-
 ## Versão atual
-SITE 6.1 — harmonizado com Press Kit 6.1 e Dossiê Etapa 5 v1.2.
+SITE 6.2 — harmonizado com Press Kit 6.2 e Dossiê Profissional v1.3.
+
+### Atualizações 6.2
+- Inclusão de “Melodia da Paz” no catálogo recente, sem extrapolar créditos técnicos ainda não documentados por fonte direta.
+- Registro da publicação de 15/09/2026 no Digestivo Cultural, classificada como Press-Release/sugestão de pauta.
+- Site, Press Kit e Dossiê operam como três níveis do mesmo acervo profissional.
 
 ### Política de evidência
-O projeto diferencia créditos públicos confirmados, documentos profissionais e itens em revisão. Participação em royalties ou registros genéricos de “participante” não são usados para inferir composição, produção ou outra função técnica.
+O projeto diferencia créditos públicos confirmados, documentos profissionais, publicações de divulgação e itens em revisão.
