@@ -1,0 +1,25 @@
+SITE 6.2.2 - NA IMPRENSA
+Junior Souto
+
+ARQUIVOS ALTERADOS
+1. index.html
+2. press-kit-junior-souto-6.2.1.pdf
+3. Press_Kit_Junior_Souto_6.2.1.docx (fonte editável)
+
+O QUE MUDOU NO SITE
+- Menu "Para jornalistas" renomeado para "Na imprensa".
+- A seção passou a destacar publicações externas verificáveis.
+- Adicionado destaque para o release do Digestivo Cultural de 15/09/2026.
+- Link do Digestivo Cultural foi limpo, sem parâmetro de rastreamento.
+- O cartão diferencia corretamente press release/sugestão de pauta de reportagem editorial independente.
+- O link do Press Kit foi atualizado para a versão 6.2.1.
+
+PRESS KIT 6.2.1
+- Seção renomeada para "Na imprensa e para jornalistas".
+- Digestivo Cultural destacado como publicação externa verificável.
+- URL pública limpa.
+- Mantida a política de evidência para não confundir press release com cobertura editorial independente.
+
+PARA PUBLICAR NO GITHUB
+Substitua o index.html atual e envie também o arquivo press-kit-junior-souto-6.2.1.pdf para a raiz do repositório.
+O DOCX é fonte de edição e não precisa ser publicado no site.
