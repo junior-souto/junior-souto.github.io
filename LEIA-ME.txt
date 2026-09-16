@@ -1,16 +1,17 @@
-JUNIOR SOUTO — SITE 6.1
+SITE 6.3 - JUNIOR SOUTO
 
-Arquivos para enviar à raiz do repositório junior-souto.github.io:
+Arquivos:
 - index.html
-- README.md
-- press-kit-junior-souto-6.1.pdf
-- dossie-etapa-5-junior-souto-v1.2.pdf
+- press-kit-junior-souto-6.3.pdf
+- dossie-profissional-junior-souto-v1.4.pdf
 
-Pode remover do repositório os PDFs antigos depois de confirmar que o site novo abriu corretamente.
+No GitHub Pages, envie os 3 arquivos para a raiz do repositório.
+O index.html já aponta para os dois PDFs novos.
 
-Correções principais:
-- removido “Compositor” da apresentação geral sem fonte pública direta suficiente;
-- removidos links quebrados da SBACEM;
-- SBACEM mantida apenas como referência documental histórica de identidade civil;
-- Press Kit e Dossiê harmonizados com a mesma política de evidência;
-- Dossiê atualizado para v1.2 e Press Kit para 6.1.
+Principais ajustes:
+- remoção de funções gerais sem fonte direta suficiente;
+- variação Junior/Júnior explicada como metadado de catálogo;
+- referências históricas frágeis colocadas em revisão;
+- SBACEM mantida apenas como referência histórica, sem link quebrado;
+- seção de perfis oficiais e catálogo;
+- press release do Digestivo Cultural classificado corretamente.
